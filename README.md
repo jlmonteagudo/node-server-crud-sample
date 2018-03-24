@@ -21,4 +21,6 @@ You can found the Angular front application in [https://github.com/jlmonteagudo/
 
 To run the system, at first place you need to have an instance of MongoDB running.
 
+You have to rename the file .env.example to .env
+
 To run this server you have to run this command: `npm run dev`
